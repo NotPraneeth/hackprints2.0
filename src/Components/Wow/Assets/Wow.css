@@ -1,0 +1,70 @@
+*{
+    margin: none;
+    padding: 0;
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    right: 0;
+    overflow-x: hidden;
+}
+.wow-container{
+    height: 150vh;
+    width: 100vw;
+    background-color: black;
+    border: #547CE3 2px solid;
+}
+
+.wow-main{
+    margin-left: 10vw;
+    border: #EB6215 2px solid;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+}
+.wow-text{
+    font-size: 25px;
+    text-align: left;
+    color: white;
+    font-family: 'Alinea-serif';
+    border: #FCAB7D 2px solid;
+    margin-top: 5vh;
+}
+.marquees{
+    display: flex;
+    border: green solid 2px;
+    overflow: hidden;
+    height: 100vh;
+    width: 80vw;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.marquee{
+   border: violet 2px solid;
+   height: 15vh;
+   margin-right: 2000px;
+   display: inline-block;
+
+}
+
+.enclosure{
+    font-size: 80px;
+}
+.orange{
+    color: #EB6215;
+    font-family: 'Arose';
+    font-size: 80px;
+
+}
+.skin{
+    color: #FCAB7D;
+    font-family: 'Arose';
+    font-size: 80px;
+
+}
+.blue{
+    color: #547CE3;
+    font-family: 'Arose';
+    font-size: 80px;
+
+}
