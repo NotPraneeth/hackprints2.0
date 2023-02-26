@@ -8,15 +8,14 @@
     overflow-x: hidden;
 }
 .wow-container{
-    height: 150vh;
+    height: 165vh;
     width: 100vw;
     background-color: black;
-    border: #547CE3 2px solid;
 }
 
 .wow-main{
+    margin-top: 30vh;
     margin-left: 10vw;
-    border: #EB6215 2px solid;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -27,12 +26,10 @@
     text-align: left;
     color: white;
     font-family: 'Alinea-serif';
-    border: #FCAB7D 2px solid;
     margin-top: 5vh;
 }
 .marquees{
     display: flex;
-    border: green solid 2px;
     overflow: hidden;
     height: 100vh;
     width: 80vw;
@@ -40,7 +37,6 @@
     flex-direction: column;
 }
 .marquee{
-   border: violet 2px solid;
    height: 15vh;
    margin-right: 2000px;
    display: inline-block;

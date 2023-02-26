@@ -129,6 +129,26 @@ const Wow = () => {
                     </div>
                     
                 </div>
+                <div className="marquee">
+                    <div className="enclosing">
+                        <span className='orange'>W</span>
+                        <span className='skin'>O</span>
+                        <span className='blue'>W</span>
+                        //
+                        <span className='orange'>W</span>
+                        <span className='skin'>O</span>
+                        <span className='blue'>W</span>
+                        //
+                        <span className='orange'>W</span>
+                        <span className='skin'>O</span>
+                        <span className='blue'>W</span>
+                        //
+                        <span className='orange'>W</span>
+                        <span className='skin'>O</span>
+                        <span className='blue'>W</span>
+                    </div>
+                
+                </div>
             </div>
         </div>
     </div>

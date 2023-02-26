@@ -10,6 +10,9 @@ import "./fonts/Yustika.woff2"
 import Landing from './Components/Landing/Landing';
 import Navbar from './Components/Navbar/Navbar';
 import Wow from './Components/Wow/Wow';
+import About from './Components/About/About';
+import Shop from './Components/Shop/Shop';
+import Contact from './Components/Contact/Contact';
 
 function App() {
   return (
@@ -17,6 +20,9 @@ function App() {
       <Navbar/>
       <Landing/>
       <Wow/>
+      <About/>
+      <Shop/>
+      <Contact/>
     </div>
   );
 }
