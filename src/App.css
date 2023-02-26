@@ -30,14 +30,16 @@
 }
 @font-face {
   font-family: "Alinea-serif";
-  src: url("./fonts/Alinea-Serif.woff") format("woff");
+  src: url("./fonts/Alinea-Serif.woff") format("woff"),
+  url("./fonts/Alinea-Serif.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "bolden";
-  src: url("./fonts/bolden.woff2") format("woff2");
+  src: url("./fonts/bolden.woff2") format("woff2"),
+  url("./fonts/Bolden.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -45,7 +47,8 @@
 
 @font-face {
   font-family: "folkin";
-  src: url("./fonts/Folkin.woff2") format("woff2");
+  src: url("./fonts/Folkin.woff2") format("woff2"),
+  url("./fonts/Folkin.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -53,7 +56,8 @@
 
 @font-face {
   font-family: "Arose";
-  src: url("./fonts/Arose-Regular.woff2") format("woff2");
+  src: url("./fonts/Arose-Regular.woff2") format("woff2"),
+  url("./fonts/Arose-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
