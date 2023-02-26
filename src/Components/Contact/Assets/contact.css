@@ -43,7 +43,8 @@
 .instagram{
     color: white;
     font-size: 100px;
-    font-family: 'folkin';
+    /* font-family: 'folkin'; */
+    font-family: 'Arose';
     line-height: 100px;
     overflow: hidden;
     border-top: white 2px solid;
@@ -52,9 +53,10 @@
 }
 .email{
     color: white;
-    font-size: 160px;
-    font-family: 'folkin';
-    line-height: 160px;
+    font-size: 100px;
+    /* font-family: 'folkin'; */
+    font-family: 'Arose';
+    /* line-height: 160px; */
     overflow: hidden;
     border-top: white 2px solid;
     border-bottom: white 2px solid;
@@ -62,9 +64,10 @@
 }
 .twitter{
     color: white;
-    font-size: 180px;
-    font-family: 'folkin';
-    line-height: 220px;
+    font-size: 100px;
+    /* font-family: 'folkin'; */
+    font-family: 'Arose';
+    /* line-height: 220px; */
     overflow: hidden;
     border-top: white 2px solid;
     border-bottom: white 2px solid;
