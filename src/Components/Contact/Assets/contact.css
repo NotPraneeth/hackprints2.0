@@ -24,17 +24,21 @@
 }
 .contact-hero{
     color: white;
-    font-size: 30px;
+    font-size: 60px;
     text-align: left;
     font-family: 'bolden';
-    font-weight: 800;
+    font-weight: 300;
     padding-bottom: 30px;
+    overflow: hidden;
 }
 .first-line{
-    font-size: 60px;
+    font-size: 90px;
 }
 .seperation-line{
     width: 100vw;
+}
+.orange{
+    font-size: 90px;
 }
 .instagram{
     color: white;
